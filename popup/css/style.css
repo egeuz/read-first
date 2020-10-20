@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  width: 350px;
+  background: #fafafa;
+  color: #111;
+  font-family: 'Space Mono', monospace;
+  padding: 20px;
+  font-size: 0.8rem;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+p {
+  max-width: 300px;
+}
+
